@@ -1,0 +1,12 @@
+{
+  "name": "arr-average",
+  "version": "1.0.0",
+  "description": "задачка для групп 02-03-04д на массивы ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "\\"
+  },
+  "author": "",
+  "license": "ISC"
+}
